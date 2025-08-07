@@ -38,8 +38,8 @@ A digital version of me, built from scratch with HTML, CSS & a sprinkle of JS ma
 
 ## 🤝 Let’s Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/palak-singh/)  
-- 📫 Email me at: your-email@example.com *(Replace with your real one)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/palak-kumari-6980a7314/)  
+- 📫 Email me at: palaksingh06005@gmail.com *(Replace with your real one)*
 
 ---
 
