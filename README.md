@@ -17,7 +17,7 @@ Here's what I’ve been working with lately:
 
 ---
 
-## 🚀 Projects I'm Proud Of
+## 🚀 Projects
 
 🧰 **React Todo App**  
 Simple? Yes. Boring? Never. A clean and minimal task manager with real-time features.
@@ -30,7 +30,7 @@ A digital version of me, built from scratch with HTML, CSS & a sprinkle of JS ma
 
 ---
 
-## 📊 Stats That (Maybe) Matter
+## 📊 GitHub status 
 
 ![Palak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=palak413&show_icons=true&theme=radical)
 
@@ -39,9 +39,7 @@ A digital version of me, built from scratch with HTML, CSS & a sprinkle of JS ma
 ## 🤝 Let’s Connect!
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/palak-kumari-6980a7314/)  
-- 📫 Email me at: palaksingh06005@gmail.com *(Replace with your real one)*
-
----
+- 📫 Email me at: palaksingh06005@gmail.com .
 
 > 🧠 “Learning to write programs stretches your mind, and helps you think better — Steve Jobs”
 
