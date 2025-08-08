@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Palak Kumariw
+# Hey there! 👋 I'm Palak Kumari
 
 ✨ Frontend Developer | ⚛️ React Lover | 🎨 CSS Sorcerer | 🌱 Forever Learning
 
